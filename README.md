@@ -1,9 +1,9 @@
-Hello, I am Wei. 📌
+Hello, I am Wei. 🎬 
 ======
 
 ### Project Name: Movie Website.
 
-### Date:  Nov 5, 2023
+### Date:  Nov 4, 2023
 
 ### Description:
 
@@ -26,7 +26,7 @@ Hello, I am Wei. 📌
 ***
 ### Thanks:
 
-📌 I hope you enjoy this project! If you have any questions or suggestions, feel free to reach out at any time. 📌
+🎬 I hope you enjoy this project! If you have any questions or suggestions, feel free to reach out at any time. 🎬 
 
 ✉️ HTY140226@gmail.com
 
