@@ -11,7 +11,15 @@ Hello, I am Wei. 🎬
 - **Javascript**: Javascript programming language.  
 
 ### Project Structure:：
-- `D.js`：
+- src
+  - `App.css`:
+  - `App.js`:
+  - `App.test.js`:
+  - `MovieCard.jsx`:
+  - `index.css`:
+  - `index.js`:
+  - `reportWebVitals.js`:
+  - `search.svg`:
 
 ### Example:
 
@@ -21,7 +29,6 @@ Hello, I am Wei. 🎬
 
 ### Update Log:
 - Version 1.0.0 (Nov 4, 2023)
-
 
 ***
 ### Thanks:
