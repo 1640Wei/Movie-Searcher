@@ -1,14 +1,18 @@
 Hello, I am Wei. 🎬 
 ======
 
-### Project Name: Movie Website.
+### Project Name: Movie Searcher.
 
 ### Date:  Nov 4, 2023
 
 ### Description:
 
 ### Technologies Used:
-- **Javascript**: Javascript programming language.  
+- **Javascript**: Javascript programming language
+- **React**: JavaScript library
+- **CSS**
+- **HTML**
+- **API**  
 
 ### Project Structure:：
 - src
