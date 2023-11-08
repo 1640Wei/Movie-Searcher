@@ -36,15 +36,11 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 1-1. **document.getElementById('root')**
 
-- Uses the `document.getElementById` method to retrieve the HTML element with the ID `'root'`.
-
-- Typically, this root element is specified in the HTML document as `<div id="root"></div>`.
+- Uses the `document.getElementById` method to retrieve the HTML element with the ID `'root'`. Typically, this root element is specified in the HTML document as `<div id="root"></div>`.
 
 1-2. **ReactDOM.createRoot**
 
-- `ReactDOM.createRoot` is a new method introduced in React 18, used to create a React root instance.
-
-- It takes one parameter, which is the root element of the application where the entire application will be rendered.
+- `ReactDOM.createRoot` is a new method introduced in React 18, used to create a React root instance. It takes one parameter, which is the root element of the application where the entire application will be rendered.
 
 1-3. **const root = ...**
 
