@@ -23,7 +23,6 @@ Hello, I am Wei. 🎬
   - `index.css`: Defining the appearance and style of elements on a webpage.
   - `index.js`:
   - `reportWebVitals.js`:
-  - `search.svg`:
 
 ### Example:
 
