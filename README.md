@@ -16,11 +16,11 @@ Hello, I am Wei. 🎬
 
 ### Project Structure:：
 - src
-  - `App.css`:
+  - `App.css`: Defining the appearance and style of elements on a webpage.
   - `App.js`:
   - `App.test.js`:
   - `MovieCard.jsx`:
-  - `index.css`:
+  - `index.css`: Defining the appearance and style of elements on a webpage.
   - `index.js`:
   - `reportWebVitals.js`:
   - `search.svg`:
