@@ -17,12 +17,12 @@ Hello, I am Wei. 🎬
 ### Project Structure:：
 - src
   - `App.css`: Defining the appearance and style of elements on a webpage.
-  - `App.js`:
-  - `App.test.js`:
-  - `MovieCard.jsx`:
+  - `App.js`: A movie search application built with React, utilizing the OMDb API to search for movies and display the results.
+  - `App.test.js`
+  - `MovieCard.jsx`: Defined a React component, MovieCard, for rendering basic information of a movie, including year, poster, type, and title.
   - `index.css`: Defining the appearance and style of elements on a webpage.
-  - `index.js`:
-  - `reportWebVitals.js`:
+  - `index.js`: The entry point of a web application built using the React framework.
+  - `reportWebVitals.js`
 
 ### Example:
 
